@@ -42,10 +42,8 @@ g++ Battleship.cpp -o battleship
 
 ## Future Improvements
 
-* Player vs Computer mode
 * Improved AI opponent
 * Enhanced console UI
-* Save and load game functionality
 
 ## Author
 
